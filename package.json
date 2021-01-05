@@ -15,7 +15,7 @@
     "make-unix": "cd android && ./gradlew app:assembleDebug"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "react": "16.9.0",
     "react-native": "0.61.4",
